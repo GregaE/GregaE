@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Worked on and plan to expand knowledge in
+## My Tech Stack
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </p>
