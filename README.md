@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Grega, welcome to my GitHub page.
+
 ## My Tech Stack
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
